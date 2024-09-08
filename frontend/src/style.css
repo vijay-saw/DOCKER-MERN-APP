@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+    background-color: #1b74ce;
+}
+
+.container {
+    margin-top: 2rem;
+}
+
+h1 {
+    color: #343a40;
+}
